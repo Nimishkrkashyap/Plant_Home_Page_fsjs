@@ -1,0 +1,76 @@
+*{
+    margin: 0; 
+    /* padding: 0; */
+    box-sizing: border-box;
+}
+#navbarMonstera{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 15vh;
+    padding: 0 50px;
+}
+#navFirst img{
+    height: 40px;
+}
+#navMid{
+    display: flex;
+    justify-content: space-between;
+    width: 45vw;
+}
+#navMid div h4{
+    font-weight: 300;
+    font-family: 'Allerta', 'sans-serif';
+}
+#navEnd{
+    display: flex;
+    justify-content: space-between;
+    width: 10vw;
+}
+#midWhole{
+    display: flex;
+    height: 85vh;
+    overflow: hidden;
+}
+#midWholePart1{
+    margin-top: 10vh;
+}
+#midWholePart13{
+    display: flex;
+    margin: 8vh 3vw;
+}
+.midWholePart13Parts{
+    display: flex;
+}
+#midWholePart121{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100px;
+    background-color: #466d50;
+    width: 250px;
+    height: 60px;
+    margin: 8vh 3vw;
+}
+#midWholePart121 div h1{
+    font-size: 35px;
+    color: #fff;
+    font-family: 'Abel', 'sans-serif';
+    font-weight: 500;
+}
+#midWholePart122 img{
+    height: 23px;
+    margin-left: 5px;
+}
+#monstera{
+    font-size: 100px;
+    font-family: 'Allerta', 'sans-serif';
+}
+#midWholePart11 div ul li:nth-last-child(-n+2){
+    font-family: 'Abel', 'sans-serif';
+    font-weight: 600;
+    width: 35vw;
+}
+#imgMain{
+    height: 85vh;    
+}
