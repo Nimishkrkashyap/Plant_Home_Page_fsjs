@@ -12,7 +12,7 @@
 
 ---
 # Time Taken for this project
-> I was taken something 2 hours for completing this project.
+> I was taken something 4 hours for completing this project.
 ---
 ## 🚀  Project Live Link <br>
 ---
